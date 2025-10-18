@@ -1,0 +1,13 @@
+NostalgiaS - 100 - 66 solves
+The CIRT received an IR request from FAIZ Company regarding their accountant, Mr. Kadoya. Threat Intelligence reported that his sensitive data was exfiltrated and sold on the black market. Digital evidence from his workstation was collected for analysis. Examine it to determine the scope, impact, and root cause of the compromise.
+
+Download challenge: https://drive.google.com/file/d/1HYnl1j9MOh61kK2NNv11sClWhaA7mE23/view?usp=sharing
+Unzip Password: i2AdT1LizKu!t;ep+6%qpP?F}SH1:~#["f)YSNdvB@M^tr{>pV3z1XZBN)[oHweB
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing
+
+File name: challenge.zip
+MD5: 6a8ed4c58a867a6b9bd7cd63be8b2d35
+SHA1: 60ab72f2e2c1a0522cb83ad235baed913ce6fde1
+SHA256: ccb37e43e17a996a7a314394a63e8f807957640c704bbec44f650a58f51401da
+
+Backup: https://tinyurl.com/mpwuxhtc

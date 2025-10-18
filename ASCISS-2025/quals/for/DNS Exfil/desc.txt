@@ -1,0 +1,9 @@
+DNS Exfil - 100 - 192 solves
+A mysterious intrusion occurred in the company's internal Web Portal system, and there are signs that a hacker has stolen some data from the server. The administrator has now narrowed down the time frame and collected 03 files to serve the digital forensics investigation process. Based on the analysis of the log files and network packets - you must follow the trail, piece together the disjointed fragments, and recover the secret data that was stolen. Hidden deep inside is the FLAG you need to find.
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: dns_exfil.zip
+MD5: 96aac5640bd438e8a6303b23b6def7ea
+SHA1: 3124949e688e6cd81f0a6f63f35d4adc02ab6487
+SHA256: 76a59e0b5d74259efe93a912d5fc85ad2f91a77ed26642e4bc2b402705a45b38

@@ -1,0 +1,14 @@
+Case AlphaS - 100 - 31 solves
+An insider incident has been identified at V Company. Please investigate the case and decrypt the seized external drive to determine which confidential data may have been exfiltrated. Read ReadMe.pdf for more context. Wrap your flag in: CSCV2025{}
+
+Download Challenge: http://challenges.tr4c3.me/CSCV2025/forensics-Case_Alpha-740c1693271f1bd22012c5ffc6571396.zip
+Mirror Link: https://drive.google.com/file/d/1NiCe1e3GL5SGQUmk0YyLJMh6rFmZhSGG/view?usp=sharing
+Challenge's Password: 1e22a923dca80eb72b69a3d6a2adfd01c4a35295ea80a14f32d8f87c5c6e02de
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: forensics-Case_Alpha-740c1693271f1bd22012c5ffc6571396.zip
+MD5: 740c1693271f1bd22012c5ffc6571396
+SHA1: 5e7b6d44f5d3246dcd417974fadcb01803c7b503
+SHA256: b9a499b7af30488545b3a5205929f4ef888f3d86be805b987e8c813bc2c0d47f
+
+Backup: https://tinyurl.com/3pjtzkwa

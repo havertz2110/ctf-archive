@@ -1,0 +1,13 @@
+CovertS - 139 - 20 solves
+Dang, I left my computer unlocked, and my friend said he had exfiltrated something to his machine. Luckily, I was capturing the network traffic at the time. Please help me analyze it and find out what secret he took.
+
+Download challenge: https://drive.google.com/file/d/1mzZizXQdbJJZGSd6-FceUIasxRW3wBlQ/view?usp=sharing
+Challenge's Password: b8ed43f0854df2ab42704968b88190b2db20e0de388fcce7e67ed99a475d93f4
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: forensics-Covert-7afc4ba9ad51f576437a2c204831153a.zip
+MD5: 7afc4ba9ad51f576437a2c204831153a
+SHA1: 761d088a0a5fff1644642dd1b8eb398c5d561ac3
+SHA256: 38959f7c8b666ead84d2bb2d602e858a67bd54f5116954fda486e098dc417d53
+
+Backup: https://tinyurl.com/8edje8x7
