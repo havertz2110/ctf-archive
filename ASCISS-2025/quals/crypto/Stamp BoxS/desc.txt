@@ -1,0 +1,19 @@
+Stamp BoxS - 499 - 2 solves
+CampusID Stamp Box (TCP)
+
+You’re given a TCP service that mints ""stamps"" for usernames. Obtain the flag protected by the special account.
+
+Connect and use HELP for commands.
+
+NOTES: Solution don't require to bruteforce on remote, so a simple PoW is required on connect
+
+Challenge info: crypto3.cscv.vn:31337
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: public.zip
+MD5: a0af812feaf979e665c871b8781835bb
+SHA1: 8b54706fe28d8a0fbac18a25dbc1edf4f0da103f
+SHA256: c6bb065b7b736c58416df81f300cbf0829dda3cf8207fb5b6f97f27133e92294
+
+Hint: GCD

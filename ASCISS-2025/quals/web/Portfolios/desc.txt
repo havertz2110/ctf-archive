@@ -1,0 +1,15 @@
+PortfolioS - 176 - 19 solves
+Pls solved local first, target: RCE. Good luck
+
+Challenge info: http://web3.cscv.vn:8989/
+
+Backup: http://42.1.124.155:8989/
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing. Material: https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view?usp=drive_link
+
+File name: public.zip
+MD5: 4531a2b053529bf71f93d383a543afe6
+SHA1: 12e3d7f862c7e53c167a83b0f50f41bb6b4c7da6
+SHA256: d8c96b154332e34bed6d7668f822f1f75df704e9eb741c03d96a6e79b3e8b7b8
+
+Hint: nginx >< spring boot

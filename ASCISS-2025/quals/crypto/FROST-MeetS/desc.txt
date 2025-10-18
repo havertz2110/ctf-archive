@@ -1,0 +1,15 @@
+FROST-MeetS - 100 - 78 solves
+You've discovered TrustGuard Treasury, an enterprise threshold signature service using the FROST protocol. The service requires approval from 5 out of 9 council members to authorize any transaction.
+
+The system claims to implement secure distributed signing with intelligent routing for optimal performance. However, something seems off about their ""session optimization"" feature...
+
+Your mission: Exploit the vulnerability to forge a valid signature on the protected message ""RELEASE_THE_FLAG"" and claim the authorization token.
+
+Challenge info: crypto2.cscv.vn:80
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: public.zip
+MD5: da145d5da1d9eb4965e6724173e960b9
+SHA1: 560320b6a1bb20324600b04145729181489af103
+SHA256: 924e47205f00c4e8cac1b393513df77ef7f45b34d5951d8586d79f32afe79f2b

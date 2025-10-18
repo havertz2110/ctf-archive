@@ -1,0 +1,9 @@
+Heap NoteS - 100 - 54 solves
+Challenge info: nc pwn2.cscv.vn 3333
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: heapnote.zip
+MD5: 101169879cfbaedacde6d9e9741090dc
+SHA1: 0dc0eaf922050f1c5242514b1128f652ee5145de
+SHA256: 1646cf4a4e54f43e5cb469d28acea617519441db9b17af232fc653ff35fa9c90

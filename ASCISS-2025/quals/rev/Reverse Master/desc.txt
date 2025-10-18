@@ -1,0 +1,32 @@
+Reverse Master - 100 - 90 solves
+🔐 The Reverse Master Challenge 🔐
+
+A mysterious organization has developed a mobile authentication system that claims to be ""reverse-proof"". Your task is to prove them wrong.
+
+The application validates a secret passphrase, but the validation logic is protected by multiple layers of obfuscation:
+
+Multi-layer Java/Kotlin code obfuscation
+Native JNI implementation with encryption
+Anti-debugging mechanisms
+Anti-tamper protection
+Dynamic key generation
+Your objectives:
+
+Bypass security checks
+Reverse the validation algorithm
+Extract the correct passphrase
+Tools you might need:
+
+APK decompiler (jadx, apktool)
+ARM disassembler (Ghidra, IDA, radare2)
+Dynamic analysis tools (optional: Frida,)
+Download: reverse-master.apk (7.8 MB) Flag format: CSCV2025{flag_content_here}
+
+Can you become the Reverse Master? 🏆
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: reverse-master.apk
+MD5: c8f40c1e4299813fce1d2185a985005c
+SHA1: e41c62753e6e583d05c3ef469c4a26db87cc654a
+SHA256: 865cdc23aa449fcc24065e1c30710fd6f2934165892ae0778e0598654b4cbd31

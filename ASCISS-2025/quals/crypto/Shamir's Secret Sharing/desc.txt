@@ -1,0 +1,11 @@
+Shamir's Secret Sharing - 100 - 56 solves
+The corporation protected a secret by cusing Shamir’s Secret Sharing (a threshold cryptographic algorithm) to split an AES key into multiple shares. Only when a minimum threshold of shareholders (threshold t) collaborate can the original key be reconstructed and the vault decrypted.
+
+The file SecretKey contains the secret key for each share and all information included in the challenge is potentially valuable pay attention to every detail.
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: ctf.zip
+MD5: 3cbe6295ba0615d4d37de571c80b7e90
+SHA1: 6fc2509947539536ae2fdb8018eb588df8409964
+SHA256: 60f8d7a95f304be6c7e593c3faefb8a515ddd0262e22f7721a94846296a80e6d

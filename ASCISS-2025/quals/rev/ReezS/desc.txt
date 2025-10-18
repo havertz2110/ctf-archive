@@ -1,0 +1,11 @@
+ReezS - 100 - 151 solves 
+Wrap your flag in CSCV2025{one-beautiful-hash}
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: reez.zip
+MD5: 821bf4473d2dcfb0b49fd3da191d362b
+SHA1: 76159a443668df32671761bfb5881095a73369b5
+SHA256: 262574f3bde9e5180aebeaa63f4871805362ab03b7f7e8ee27673e704e85747f
+
+REEZ.zip

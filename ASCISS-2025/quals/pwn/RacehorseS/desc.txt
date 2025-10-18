@@ -1,0 +1,13 @@
+RacehorseS - 100 - 80 solves
+My daughter Haru Urara is learning C. She wrote a little program to talk to another horse. Can you check it for security issues?
+
+Challenge info: nc pwn1.cscv.vn 6789
+
+Unzip Password: CSCV2025
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: horse_say.zip
+MD5: df9dbd96f1784f6992920b5c9c56e4e2
+SHA1: a92ef6899392960ae7372476d9fbb0b76a06cfce
+SHA256: e93522b3f062cc6797ee6465bbe5a763ddca8b4131e177c2208aafc3a303fb93

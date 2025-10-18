@@ -1,0 +1,9 @@
+Chatbot - 100 - 129 solves
+A simple console chatbot awaits you. Can you uncover its secrets and become a VIP?
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: main
+MD5: d696e22928990366fb9ac0ab6c6c5f3c
+SHA1: de1e6bed7096c21c2958f30921aff078c9674220
+SHA256: 84dd7ea6fd2ce9277d886733dc03ac8f6ed44ae428c1ab3ea65c43e88e1b314c

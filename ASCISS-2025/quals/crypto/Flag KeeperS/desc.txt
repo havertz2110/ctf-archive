@@ -1,0 +1,11 @@
+Flag KeeperS - 100 - 112 solves
+Something is wrong in this cryptosystem, can you become an admin?
+
+Challenge info: nc crypto1.cscv.vn 1337
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: public.zip
+MD5: d0234a684bf58edac6d02e8a8a224da0
+SHA1: 55bda38bb1879736a6deb3f77eb955391b185d06
+SHA256: f125e7cef0c8b18b5b689dd09fd8a961d88879a3c9b7565e7ba852b9396fea0a

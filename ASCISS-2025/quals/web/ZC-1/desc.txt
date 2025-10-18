@@ -1,0 +1,10 @@
+ZC-1 - 100 - 46 solves
+Challenge: http://web2.cscv.vn:8000/ 
+hint
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+ Material: https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view?usp=drive_link
+
+File name: public.zip
+MD5: c2bb7b3b71d8b852c52bc87ec813c877
+SHA1: f6426823ffb1a7a7e3996bebd42ab2c8f77836c5
+SHA256: d9e996e412dce2d07ddabd8a1aa963aa975dd1a52b48c41e885116ba47d22088

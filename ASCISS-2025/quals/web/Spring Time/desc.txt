@@ -1,0 +1,15 @@
+Spring Time - 500 - 1 solve
+Spring always brings back so many memories. Build docker to test your own kit, spawn an instance to exploit and get the flag Get the source code: springtime-sourcecode.zip
+
+Material: https://drive.google.com/file/d/1cj3_dbxiFUWLAr2CriAUcDJO4a2eirL0/view?usp=sharing
+
+Create new instance: nc 42.96.60.65 36000 Please referer to the attached guide_create_instance.md file for creating new challenge instance!
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: springtime-sourcecode.zip
+MD5: a27586d8ee30e2c401878207001a0aa3
+SHA1: 587f5cab38a8d547679f4725e28b312156ebf802
+SHA256: f75af7f61ec59054d2a5c932a52725eaf5763808535a9d501f35766b161d9924
+
+Hint: nothing beats bean soup in the spring. but what about beanutils?

@@ -1,0 +1,11 @@
+Hanoi Convention - 464 - 7 solves
+Can you answer all these questions?
+
+Challenge info: nc pwn4.cscv.vn 9999
+
+Please verify the challenge attachment checksum before usage. Always be mindful of what you're doing.
+
+File name: quiz
+MD5: 8e24e96bf559927b974f17fe915dcab8
+SHA1: 7419f870c87dfc3ec7375e0cd5531bf5dfc8cbae
+SHA256: ef1f45f6003212b9266dcdb31db659103a789ff8f74c852c7e7d8d4d9f6d27e7
